@@ -1,16 +1,11 @@
-# testing_concepts
+# Android with kotlin help for beginners
 
-A new Flutter project.
+This webapp has concepts related to android development.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages used:
+1. [Firebase core](https://pub.dev/packages/firebase_core) for firebase initialization
+2. [Firebase cloudfirestore](https://pub.dev/packages/cloud_firestore) for data base
+3. [Google fonts](https://pub.dev/packages/google_fonts) for fonts 
+4. [Super Scaffold](https://pub.dev/packages/super_scaffold) for responsive behaviour
+5. [get](https://pub.dev/packages/get) for navigation
+6. [markdown_widget](https://pub.dev/packages/markdown_widget) for markdown rendering from database.
